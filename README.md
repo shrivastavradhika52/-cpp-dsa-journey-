@@ -1,16 +1,11 @@
-# C++ Basics 🚀
+# C++ & DSA Journey
 
-This repository contains my basic C++ practice programs created while learning C++.
+This repository contains my C++ practice programs and my ongoing preparation for Data Structures and Algorithms (DSA).
 
-## Programs included:
-- Hello World
-- Addition
-- Area calculation
-- Perimeter calculation
-- Speed calculation
-- Sum of n terms
+## Contents
+- C++ basics and logic-building programs
+- Formula-based problems
+- DSA practice (to be added)
 
-## Purpose
-To build a strong foundation in C++ through consistent practice.
+This repository will be updated regularly as I progress.
 
-I will keep updating this repository as I learn more concepts.
