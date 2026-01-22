@@ -22,7 +22,7 @@ This repository will be updated regularly as I progress.
 - Functions
 
 🎯 Next focus:
-- Object-Oriented Programming (OOPs)
+
 - Applying concepts through mini projects
 - Data Structures and Algorithms (DSA)
 
