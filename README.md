@@ -30,7 +30,7 @@ This repository will be updated regularly as I progress.
 
 ## Current Progress
 - Completed C++ basics, arrays, strings, pointers and OOPs.
-- Currently exploring STL (Vector, Stack, Queue, Map, List).
+  
 - completed stl basics 
 - DSA practice starting soon.
 
