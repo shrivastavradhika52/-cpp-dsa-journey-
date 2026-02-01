@@ -34,4 +34,14 @@ This repository will be updated regularly as I progress.
 - completed stl basics 
 - DSA practice starting soon.
 
+  🧠 Current Focus: Recursion
+
+I’m currently starting with Recursion, which is helping me understand:
+
+How problems can be broken into smaller subproblems
+
+Base cases and recursive calls
+
+Thinking in terms of function stack flow
+
 
