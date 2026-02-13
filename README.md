@@ -29,14 +29,12 @@ This repository will be updated regularly as I progress.
 📅 Maintaining consistent learning and GitHub contributions.
 
 ## Current Progress
-- Completed C++ basics, arrays, strings, pointers and OOPs.
-  
-- completed stl basics 
-- DSA practice starting soon.
+- Completed C++ basics, arrays, strings, pointers and OOPs and stl basics
+- DSA practice started !
 
-  🧠 Current Focus: Recursion
+  🧠 Current Focus: Recursion 
 
-I’m currently starting with Recursion, which is helping me understand:
+I’m currently working on Recursion, which is helping me understand:
 
 1. How problems can be broken into smaller subproblems
 
