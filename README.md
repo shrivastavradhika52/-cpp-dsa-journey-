@@ -36,10 +36,10 @@ This repository will be updated regularly as I progress.
 
 I’m currently working on Recursion, which is helping me understand:
 
-1. How problems can be broken into smaller subproblems
+1. How problems can be broken into smaller subproblems.
 
-2. Base cases and recursive calls
+2. Base cases and recursive calls.
 
-3. Thinking in terms of function stack flow
+3. Thinking in terms of function stack flow.
 
 
