@@ -40,6 +40,27 @@ I’m currently working on Recursion, which is helping me understand:
 
 2. Base cases and recursive calls.
 
-3. Thinking in terms of function stack flow.
+📌 Progress Update: Recursion Completed ✅
+
+I have successfully completed the Recursion fundamentals as part of my DSA journey.
+This phase helped me understand how to break complex problems into smaller subproblems and strengthened my problem-solving approach.
+
+🚀 Next Phase: Arrays (Starting Now)
+
+After building a strong base in recursion, I am now moving to Arrays in Data Structures & Algorithms.
+
+🎯 Upcoming Focus
+
+1.Array traversal
+
+2.Linear Search
+
+3.Maximum & Minimum in Array
+
+4.Basic array problems for logic building
+
+   Problem-solving with time complexity awareness
+
+    This marks the transition from recursion thinking ➝ data structure-based problem solving.
 
 
