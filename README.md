@@ -57,9 +57,9 @@ After building a strong base in recursion, I am now moving to Arrays in Data Str
 
 3.Maximum & Minimum in Array
 
-4.Basic array problems for logic building
+4.Basic array problems for logic building.
 
-   Problem-solving with time complexity awareness
+5.  Problem-solving with time complexity awareness.
 
     This marks the transition from recursion thinking ➝ data structure-based problem solving.
 
